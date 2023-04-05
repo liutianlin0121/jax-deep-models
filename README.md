@@ -1,4 +1,4 @@
-# A collection of deep learning models in JAX and Flax
+# Deep learning models in JAX and Flax
 
 
 Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX and Flax are neural network frameworks developed by Google that provide efficient, scalable, and flexible ways of building deep learning models.
