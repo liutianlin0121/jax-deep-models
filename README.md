@@ -1,10 +1,9 @@
 # Deep learning models in JAX and Flax
 
 
-Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX and Flax are neural network frameworks developed by Google that provide efficient, scalable, and flexible ways of building deep learning models.
+Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX is a library for writing numerical computations and machine learning code that can run on CPUs, GPUs, and TPUs with speed and efficiency. Flax is built on top of JAX and provides a flexible and modular way to create and train machine learning models. 
 
-
-This repository contains a collection of models organized by model types, such as multilayer perceptrons, convolutional neural networks, and autoencoders. The models are trained on various datasets, such as MNIST and CIFAR-10, and can be run in Jupyter notebooks or Google Colab.
+This repository contains a collection of deep learning models, such as multilayer perceptrons, convolutional neural networks, and autoencoders. We've purposefully chosen small-scale datasets like MNIST and CIFAR-10 to demonstrate the training pipeline of these models in a way that's accessible to everyone: all models can be trained in Google Colab.
 
 This repository is inspired by [Sebastian Raschka](https://github.com/rasbt)'s [Deep Learning Model Zoo](https://sebastianraschka.com/deep-learning-resources/), which is written in PyTorch and Tensorflow.
 
