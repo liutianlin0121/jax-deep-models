@@ -1,7 +1,7 @@
 # Deep learning models in JAX and Flax
 
 
-Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX is a library for numerical computing that can run on CPUs, GPUs, and TPUs. Flax is built on top of JAX and provides a flexible way to train machine learning models.
+Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX is a numerical computing library capable of executing on various hardware accelerators, including CPUs, GPUs, and TPUs. Flax is built on top of JAX and provides a flexible way to train machine learning models.
 
 This repository contains a collection of deep learning models, such as multilayer perceptrons, convolutional neural networks, and autoencoders. The training pipelines of these models are demonstrated on Google Colab.
 
