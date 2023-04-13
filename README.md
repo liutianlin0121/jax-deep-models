@@ -1,9 +1,9 @@
 # Deep learning models in JAX and Flax
 
 
-Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX is a library for writing numerical computations and machine learning code that can run on CPUs, GPUs, and TPUs with speed and efficiency. Flax is built on top of JAX and provides a flexible and modular way to create and train machine learning models. 
+Welcome to this repository of deep learning models written in [JAX](https://github.com/google/jax) and [Flax](https://flax.readthedocs.io/en/latest/)! JAX is a library for numerical computing that can run on CPUs, GPUs, and TPUs. Flax is built on top of JAX and provides a flexible way to train machine learning models.
 
-This repository contains a collection of deep learning models, such as multilayer perceptrons, convolutional neural networks, and autoencoders. We've purposefully chosen small-scale datasets like MNIST and CIFAR-10 to demonstrate the training pipeline of these models in a way that's accessible to everyone: all models can be trained in Google Colab.
+This repository contains a collection of deep learning models, such as multilayer perceptrons, convolutional neural networks, and autoencoders. The training pipelines of these models are demonstrated on Google Colab.
 
 This repository is inspired by [Sebastian Raschka](https://github.com/rasbt)'s [Deep Learning Model Zoo](https://sebastianraschka.com/deep-learning-resources/), which is written in PyTorch and Tensorflow.
 
@@ -41,10 +41,10 @@ This repository is inspired by [Sebastian Raschka](https://github.com/rasbt)'s [
 
 
 
-### 🙏 Acknowledgement
+### Acknowledgement
 
 This repository includes code that has been adapted from various sources, including the [Flax examples](https://github.com/google/flax/tree/main/examples), the [UvA DL tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/), and the [JAXopt examples](https://jaxopt.github.io/stable/notebooks/index.html#deep-learning).
 
 
-### ⚠️ Disclaimer
+### Disclaimer
 All notebooks in this repository are written for didactic purposes and are not intended to serve as performance benchmarks.
